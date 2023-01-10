@@ -8,14 +8,14 @@
     {
       "code": "NU1301",
       "level": "Error",
-      "message": "Failed to retrieve information about 'System.Data.SqlClient' from remote source 'https://packagesource/FindPackagesById()?id='System.Data.SqlClient'&semVerLevel=2.0.0'.",
-      "libraryId": "System.Data.SqlClient"
+      "message": "Failed to retrieve information about 'PluralizeService.Core' from remote source 'https://packagesource/FindPackagesById()?id='PluralizeService.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "PluralizeService.Core"
     },
     {
       "code": "NU1301",
       "level": "Error",
-      "message": "Failed to retrieve information about 'PluralizeService.Core' from remote source 'https://packagesource/FindPackagesById()?id='PluralizeService.Core'&semVerLevel=2.0.0'.",
-      "libraryId": "PluralizeService.Core"
+      "message": "Failed to retrieve information about 'System.Data.SqlClient' from remote source 'https://packagesource/FindPackagesById()?id='System.Data.SqlClient'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Data.SqlClient"
     }
   ]
 }
