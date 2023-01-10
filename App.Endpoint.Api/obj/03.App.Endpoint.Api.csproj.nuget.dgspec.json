@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MEHDI\\App.Endpoint.Api\\App.Endpoint.Api\\03.App.Endpoint.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\MEHDI\\App.Endpoint.Api\\04.App.infrastructure\\04.App.infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MEHDI\\App.Endpoint.Api\\04.App.infrastructure\\04.App.infrastructure.csproj",
+        "projectName": "04.App.infrastructure",
+        "projectPath": "C:\\MEHDI\\App.Endpoint.Api\\04.App.infrastructure\\04.App.infrastructure.csproj",
+        "packagesPath": "C:\\Users\\JahaN\\.nuget\\packages\\",
+        "outputPath": "C:\\MEHDI\\App.Endpoint.Api\\04.App.infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JahaN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\MEHDI\\App.Endpoint.Api\\App.Service\\02.App.ApplicationServices.csproj": {
+                "projectPath": "C:\\MEHDI\\App.Endpoint.Api\\App.Service\\02.App.ApplicationServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "PluralizeService.Core": {
+              "target": "Package",
+              "version": "[1.2.21147.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MEHDI\\App.Endpoint.Api\\App.Domain\\01.App.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MEHDI\\App.Endpoint.Api\\App.Domain\\01.App.Domain.csproj",
+        "projectName": "01.App.Domain",
+        "projectPath": "C:\\MEHDI\\App.Endpoint.Api\\App.Domain\\01.App.Domain.csproj",
+        "packagesPath": "C:\\Users\\JahaN\\.nuget\\packages\\",
+        "outputPath": "C:\\MEHDI\\App.Endpoint.Api\\App.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JahaN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MEHDI\\App.Endpoint.Api\\App.Endpoint.Api\\03.App.Endpoint.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MEHDI\\App.Endpoint.Api\\App.Endpoint.Api\\03.App.Endpoint.Api.csproj",
+        "projectName": "03.App.Endpoint.Api",
+        "projectPath": "C:\\MEHDI\\App.Endpoint.Api\\App.Endpoint.Api\\03.App.Endpoint.Api.csproj",
+        "packagesPath": "C:\\Users\\JahaN\\.nuget\\packages\\",
+        "outputPath": "C:\\MEHDI\\App.Endpoint.Api\\App.Endpoint.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JahaN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\MEHDI\\App.Endpoint.Api\\04.App.infrastructure\\04.App.infrastructure.csproj": {
+                "projectPath": "C:\\MEHDI\\App.Endpoint.Api\\04.App.infrastructure\\04.App.infrastructure.csproj"
+              },
+              "C:\\MEHDI\\App.Endpoint.Api\\App.Service\\02.App.ApplicationServices.csproj": {
+                "projectPath": "C:\\MEHDI\\App.Endpoint.Api\\App.Service\\02.App.ApplicationServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MEHDI\\App.Endpoint.Api\\App.Service\\02.App.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MEHDI\\App.Endpoint.Api\\App.Service\\02.App.ApplicationServices.csproj",
+        "projectName": "02.App.ApplicationServices",
+        "projectPath": "C:\\MEHDI\\App.Endpoint.Api\\App.Service\\02.App.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\JahaN\\.nuget\\packages\\",
+        "outputPath": "C:\\MEHDI\\App.Endpoint.Api\\App.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JahaN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\MEHDI\\App.Endpoint.Api\\App.Domain\\01.App.Domain.csproj": {
+                "projectPath": "C:\\MEHDI\\App.Endpoint.Api\\App.Domain\\01.App.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

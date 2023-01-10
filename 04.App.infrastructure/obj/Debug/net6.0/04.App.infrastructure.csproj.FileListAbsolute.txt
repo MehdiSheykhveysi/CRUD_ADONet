@@ -1,0 +1,17 @@
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\bin\Debug\net6.0\04.App.infrastructure.deps.json
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\bin\Debug\net6.0\04.App.infrastructure.dll
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\bin\Debug\net6.0\04.App.infrastructure.pdb
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\bin\Debug\net6.0\01.App.Domain.dll
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\bin\Debug\net6.0\02.App.ApplicationServices.dll
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\bin\Debug\net6.0\02.App.ApplicationServices.pdb
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\bin\Debug\net6.0\01.App.Domain.pdb
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\obj\Debug\net6.0\04.App.infrastructure.csproj.AssemblyReference.cache
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\obj\Debug\net6.0\04.App.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\obj\Debug\net6.0\04.App.infrastructure.AssemblyInfoInputs.cache
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\obj\Debug\net6.0\04.App.infrastructure.AssemblyInfo.cs
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\obj\Debug\net6.0\04.App.infrastructure.csproj.CoreCompileInputs.cache
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\obj\Debug\net6.0\04.App.infrastructure.csproj.CopyComplete
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\obj\Debug\net6.0\04.App.infrastructure.dll
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\obj\Debug\net6.0\refint\04.App.infrastructure.dll
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\obj\Debug\net6.0\04.App.infrastructure.pdb
+C:\MEHDI\App.Endpoint.Api\04.App.infrastructure\obj\Debug\net6.0\ref\04.App.infrastructure.dll

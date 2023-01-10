@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "0SOp6gxGA64O37o5e5NDtA3HlxWXMdDa6y7NagTzqTdsxQMeTPq9yoE0sbcgAK50px3Dov8TOMdJB/i5eEdZNg==",
+  "success": false,
+  "projectFilePath": "D:\\App.Endpoint.Api\\04.App.infrastructure\\04.App.infrastructure.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'PluralizeService.Core' from remote source 'https://packagesource/FindPackagesById()?id='PluralizeService.Core'&semVerLevel=2.0.0'.",
+      "libraryId": "PluralizeService.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'System.Data.SqlClient' from remote source 'https://packagesource/FindPackagesById()?id='System.Data.SqlClient'&semVerLevel=2.0.0'.",
+      "libraryId": "System.Data.SqlClient"
+    }
+  ]
+}

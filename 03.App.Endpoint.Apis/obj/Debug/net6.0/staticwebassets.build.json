@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wpRJ6Z4QYUIL4Abjm3P/QfQ4PrSuVR5X5BU0aYGnuYM=",
+  "Source": "03.App.Endpoint.Apis",
+  "BasePath": "_content/03.App.Endpoint.Apis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
